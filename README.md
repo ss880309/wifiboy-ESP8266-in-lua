@@ -9,5 +9,5 @@ wifiboy為老師與原創開發者合作結合課堂教材，使用初代未上�
 Course：THE STUDY OF MEDIA INTEGRATION TOPICS  
 [1] 崁入式系統硬體設計 O’REILLY  
 [2] The Principles of Interaction Design in the Post-digital Age  
-[3] 原創wifiboy官方網站：https://wifiboy.club/ 　
-[4] FigTaiwan: https://sites.google.com/site/figtaiwanfigtaiwan/home
+[3] 原創wifiboy官方網站：https://wifiboy.club/    
+[4] FigTaiwan: https://sites.google.com/site/figtaiwanfigtaiwan/home  
